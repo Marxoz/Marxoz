@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some Blazor and .NET magic
 - 🌱 I’m currently learning more Azure skills
 - 🤔 I’m looking for help with employing awesome devs in Australia
-- 💬 Ask me about aything tech related
+- 💬 Ask me about anything tech related
 - 📫 How to reach me: 
     📺 https://www.youtube.com/@gertcmarx
     📧 gertmarx@ssw.com.au
