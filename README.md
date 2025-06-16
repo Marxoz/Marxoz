@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the best CMS on GitHub, [![Tina.io](https://tina.io/favicon-32x32.png) Tina.io](https://tina.io)
+- 🔭 I’m currently working on the best CMS on GitHub, [![Tina.io]([https://tina.io/favicon-32x32.png](https://tina.io/_next/image?url=https%3A%2F%2Fassets.tina.io%2F06bcd49e-f919-4e53-a2c4-77f656491c7d%2Fimg%2Fbrand-assets%2Flogo-black-on-background-min.png&w=3840&q=75)) Tina.io](https://tina.io)
 - 🌱 I’m currently learning more Azure skills
 - 🤔 I’m looking for help with employing awesome devs in Australia
 - 💬 Ask me about anything tech related
